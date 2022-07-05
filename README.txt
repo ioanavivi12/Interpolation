@@ -31,6 +31,4 @@ Task 2 - Interpolare Bicubic
 		-> calculez derivata in functie de x si y
 	*precalc_d:
 		-> se calculeaza cele 3 matrici de derivate
-Task 3 - Interpolare Lanczos
-	-> la toate cele 3 functii am urmarit cat am putut de bine algoritmul in pseudocod oferit in enunt
 		
